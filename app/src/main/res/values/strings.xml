@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="wear_face_mask_text">Masks and face covering can prevent the wearer from transmitting the COVID-19 virus to others and may provide some protection to the wearer.</string>
+    <string name="wash_your_hand_text">With COVID-19 transmission mainly spreading between people through direct, indirect or close contact with infected people. Washing hands is of critical importance.</string>
+    <string name="welcome_text">Welcome to COVID-19 information portal.</string>
+    <string name="welcome_image">Welcome Image</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_started_icon_image">Get Started Icon Image</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="headache">Headache</string>
+</resources>
